@@ -38,8 +38,7 @@ Example:
 ## Technologies Used
 
 * Python 3
-* MRJob
-* Hadoop MapReduce
+* MRJob in Pycharm
 * JSON
 
 ## Project Structure
