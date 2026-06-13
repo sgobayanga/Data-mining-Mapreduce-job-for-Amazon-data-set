@@ -3,7 +3,7 @@
 
 ## Project Description
 
-This project applies the MapReduce programming model using Python's **MRJob** framework to analyze large-scale Amazon customer review data. The aim is to demonstrate how distributed data processing can be used to extract valuable insights from massive datasets.
+This project applies the MapReduce programming model using Python's **MRJob** framework to analyze large-scale Amazon customer review data in **Pycharm** . The aim is to demonstrate how distributed data processing can be used to extract valuable insights from massive datasets.
 
 The project performs five analytical tasks:
 
